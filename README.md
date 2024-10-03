@@ -24,7 +24,7 @@ This Python application allows you to convert multiple `.pptx` (PowerPoint) and 
 
 Follow these instructions to set up the application on your system.
 
-### Windows
+### Windows:
 
 1. **Install LibreOffice**:
    Download and install LibreOffice from the [official website](https://www.libreoffice.org/download/download-libreoffice/).
@@ -39,7 +39,7 @@ Follow these instructions to set up the application on your system.
    pip install tk
    ```
 
-### macOS
+### macOS:
 
 1. **Install Homebrew (if not already installed)**:
    
@@ -63,7 +63,7 @@ Follow these instructions to set up the application on your system.
    pip install tk
    ```
 
-### Linux
+### Linux:
 
 1. **Install LibreOffice and unoconv**:
    
