@@ -14,7 +14,7 @@ def select_file():
     file_entry.insert(0, filename)
 
 
-# Function to convert the selected file to PDF
+# Function to convert the selected file(.pptx or .docx) to PDF
 def convert_to_pdf():
     filepath = file_entry.get()
     if not filepath:
