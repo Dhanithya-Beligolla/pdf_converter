@@ -13,7 +13,7 @@ def select_files():
     for filename in filenames:
         file_listbox.insert(tk.END, filename)
 
-# Function to convert the selected files to PDF
+# Function to convert the selected files(.pptx or .docx) to PDF
 def convert_to_pdf():
     filepaths = file_listbox.get(0, tk.END)
     if not filepaths:
