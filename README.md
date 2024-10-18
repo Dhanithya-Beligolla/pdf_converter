@@ -1,4 +1,4 @@
-# File Converter
+# File Converter.
 
 This Python application allows you to convert multiple `.pptx` (PowerPoint) and `.docx` (Word) files to PDF format though GUI. The application supports Windows, macOS, and Linux.
 
